@@ -2,3 +2,10 @@
 *.o
 *.exe
 .DS_Store
+
+*
+!*/
+!*.c
+!*.h
+!.gitignore
+!README.md
